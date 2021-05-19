@@ -3,7 +3,7 @@ import babel from "@rollup/plugin-babel";
 import commonjs from "@rollup/plugin-commonjs";
 
 export default {
-  input: "src/index.js",
+  input: "src/node_module_skeleton.js",
   output: [
     {
       file: "dist/output.cjs.js",
