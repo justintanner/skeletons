@@ -5,5 +5,15 @@
   "main": "index.js",
   "author": "Justin Tanner",
   "license": "None",
-  "private": true
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "ava": "^6.1.3",
+    "prettier": "^3.3.3"
+  },
+  "scripts": {
+    "test": "ava",
+    "start": "node index.js",
+    "format": "prettier --write ."
+  }
 }
