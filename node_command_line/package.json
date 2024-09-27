@@ -1,0 +1,9 @@
+{
+  "name": "node_command_line",
+  "version": "1.0.0",
+  "description": "A skelton project for a nodejs script that runs on the command line",
+  "main": "index.js",
+  "author": "Justin Tanner",
+  "license": "None",
+  "private": true
+}

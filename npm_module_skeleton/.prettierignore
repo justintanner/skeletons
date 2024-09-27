@@ -1,3 +1,0 @@
-# Ignore all HTML files:
-tests/fixtures/db.json
-node_nodules
